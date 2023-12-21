@@ -1,0 +1,6 @@
+requests
+bs4
+pytube
+streamlit
+subprocess
+moviepy
